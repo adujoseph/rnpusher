@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106061632720",
+    "firebase_url": "https://movieland-cfaee.firebaseio.com",
+    "project_id": "movieland-cfaee",
+    "storage_bucket": "movieland-cfaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106061632720:android:29d09ee27e024455253ad5",
+        "android_client_info": {
+          "package_name": "com.rnpusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106061632720-paa12f1o5b2hppdd5qovcadtd9v69ll0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PFkCYSgOLa3aB7GXsDGbcP2f5Xut2nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106061632720-paa12f1o5b2hppdd5qovcadtd9v69ll0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
